@@ -1,0 +1,67 @@
+BookID,OsisID,BookName,TotalChapters,Volume,Chapters,Verses,Avg Verse
+1,Gen,Genesis,50,OT,50,1533,31
+2,Exod,Exodus,40,OT,40,1213,30
+3,Lev,Leviticus,27,OT,27,859,32
+4,Num,Numbers,36,OT,36,1288,36
+5,Deut,Deuteronomy,34,OT,34,959,28
+6,Josh,Joshua,24,OT,24,658,27
+7,Judg,Judges,21,OT,21,618,29
+8,Ruth,Ruth,4,OT,4,85,21
+9,1Sam,1 Samuel,31,OT,31,810,26
+10,2Sam,2 Samuel,24,OT,24,695,29
+11,1Kgs,1 Kings,22,OT,22,816,37
+12,2Kgs,2 Kings,25,OT,25,719,29
+13,1Chr,1 Chronicles,29,OT,29,942,32
+14,2Chr,2 Chronicles,36,OT,36,822,23
+15,Ezra,Ezra,10,OT,10,280,28
+16,Neh,Nehemiah,13,OT,13,406,31
+17,Esth,Esther,10,OT,10,167,17
+18,Job,Job,42,OT,42,1070,25
+19,Ps,Psalms,150,OT,150,2461,16
+20,Prov,Proverbs,31,OT,31,915,29
+21,Eccl,Ecclesiastes,12,OT,12,222,18
+22,Song,Song of Solomon,8,OT,,,
+23,Isa,Isaiah,66,OT,66,1292,20
+24,Jer,Jeremiah,52,OT,52,1364,26
+25,Lam,Lamentations,5,OT,5,154,31
+26,Ezek,Ezekiel,48,OT,48,1273,26
+27,Dan,Daniel,12,OT,12,357,30
+28,Hos,Hosea,14,OT,14,197,14
+29,Joel,Joel,3,OT,3,73,24
+30,Amos,Amos,9,OT,9,146,16
+31,Obad,Obadiah,1,OT,1,21,21
+32,Jonah,Jonah,4,OT,4,48,12
+33,Mic,Micah,7,OT,7,105,15
+34,Nah,Nahum,3,OT,3,47,16
+35,Hab,Habakkuk,3,OT,3,56,19
+36,Zeph,Zephaniah,3,OT,3,53,18
+37,Hag,Haggai,2,OT,2,38,19
+38,Zech,Zechariah,14,OT,14,211,15
+39,Mal,Malachi,4,OT,4,55,14
+40,Matt,Matthew,28,NT,28,1071,38
+41,Mark,Mark,16,NT,16,678,42
+42,Luke,Luke,24,NT,24,1151,48
+43,John,John,21,NT,21,879,42
+44,Acts,Acts,28,NT,28,1007,36
+45,Rom,Romans,16,NT,16,433,27
+46,1Cor,1 Corinthians,16,NT,16,437,27
+47,2Cor,2 Corinthians,13,NT,13,257,20
+48,Gal,Galatians,6,NT,6,149,25
+49,Eph,Ephesians,6,NT,6,155,26
+50,Phil,Philippians,4,NT,4,104,26
+51,Col,Colossians,4,NT,4,95,24
+52,1Thess,1 Thessalonians,5,NT,5,89,18
+53,2Thess,2 Thessalonians,3,NT,3,47,16
+54,1Tim,1 Timothy,6,NT,6,113,19
+55,2Tim,2 Timothy,4,NT,4,83,21
+56,Titus,Titus,3,NT,3,46,15
+57,Phim,Philemon,1,NT,1,25,25
+58,Heb,Hebrews,13,NT,13,303,23
+59,Jas,James,5,NT,5,108,22
+60,1Pet,1 Peter,5,NT,5,105,21
+61,2Pet,2 Peter,3,NT,3,61,20
+62,1John,1 John,5,NT,5,105,21
+63,2John,2 John,1,NT,1,13,13
+64,3John,3 John,1,NT,1,14,14
+65,Jude,Jude,1,NT,1,25,25
+66,Rev,Revelation,22,NT,22,404,18
